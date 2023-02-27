@@ -264,10 +264,6 @@ A: `vscode` 请安装项目推荐插件，或手动安装 `Eslint` 插件。
 
 <div style="display: flex; gap: 20px;">
 	<div style="text-align: center">
-		<img style="max-width: 100%" src="./docs/wechat.png" alt="微信" />
-		<p>WeChat Pay</p>
-	</div>
-	<div style="text-align: center">
 		<img style="max-width: 100%" src="./docs/alipay.png" alt="支付宝" />
 		<p>Alipay</p>
 	</div>
