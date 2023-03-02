@@ -252,11 +252,6 @@ A: `vscode` 请安装项目推荐插件，或手动安装 `Eslint` 插件。
 
 贡献之前请先阅读 [贡献指南](./CONTRIBUTING.md)
 
-感谢所有做过贡献的人!
-
-<a href="https://github.com/Chanzhaoyu/chatgpt-web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Chanzhaoyu/chatgpt-web" />
-</a>
 
 ## 赞助
 
@@ -264,14 +259,10 @@ A: `vscode` 请安装项目推荐插件，或手动安装 `Eslint` 插件。
 
 <div style="display: flex; gap: 20px;">
 	<div style="text-align: center">
-		<img style="max-width: 100%" src="./docs/wechat.png" alt="微信" />
-		<p>WeChat Pay</p>
-	</div>
-	<div style="text-align: center">
 		<img style="max-width: 100%" src="./docs/alipay.png" alt="支付宝" />
 		<p>Alipay</p>
 	</div>
 </div>
 
 ## License
-MIT © [ChenZhaoYu](./license)
+MIT © [jinhuaxiao](./license)
